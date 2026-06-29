@@ -1,0 +1,7 @@
+1. Input array and print it.
+2. Find minimum and maximum value in the array and print it.
+3. Find the average value of the array and print it.
+4. Sort array and print it.
+
+Dont need to use functions.
+Array must be 10 elements.
