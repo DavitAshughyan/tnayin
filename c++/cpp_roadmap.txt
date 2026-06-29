@@ -1,0 +1,45 @@
+C++ Study Roadmap
+
+- Arrays
+  - Print, Input array
+  - Min, Max, Average in arrays
+  - Sort arrays
+- Loop,  Nested loop, If, Else
+    -  Print triangles:
+        1)                            2)                          3)
+        *                               *                               * 
+        **                             ***                             ** 
+        ***                           *****                           *** 
+        ****                         *******                         **** 
+        *****                       *********                       ***** 
+- Two dimensional arrays
+  - Print, Input 2D array
+  - Min, Max, Average in 2D array
+  - Sort 2D array
+  - Transpose 2D array
+  - Tic-tac-toe 3x3 array
+- Functions
+  - By val / By ref 
+  - Recursion
+- Pointer / Reference
+   - Pass array to function using pointer
+   - Dynamic arrays
+   - Dynamic 2D arrays
+- OOP
+   - Class
+   - Constructor
+   - Destructor
+   - Getters / Setters
+   - Methods
+   - Inheritance
+   - Encapsulation
+   - Polymorphism
+   - Abstraction
+   - Virtual functions
+   - Pure virtual functions
+   - Abstract classes
+   - Operator overloading
+- Implement chess using 2d array 
+- Exception handling
+- File I/O
+- Multithreading
