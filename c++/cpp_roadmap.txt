@@ -12,19 +12,29 @@ C++ Study Roadmap
         ***                           *****                           *** 
         ****                         *******                         **** 
         *****                       *********                       ***** 
+    - Factorial
+    - Reverse integer
+    - Check if a number is prime
+    - Sum of digits of a number
+    - Decimal to Binary conversion using loops
+    - Binary to Decimal conversion using loops
+    - Guess the number game
 - Two dimensional arrays
   - Print, Input 2D array
   - Min, Max, Average in 2D array
   - Sort 2D array
   - Transpose 2D array
   - Tic-tac-toe 3x3 array
+- Pointer / Reference
+  - Dynamic arrays
+  - Dynamic 2D arrays
 - Functions
+  - Pass array to function using pointer  
+    - Multiply array by scalar
+    - Reverse array in place
   - By val / By ref 
   - Recursion
-- Pointer / Reference
-   - Pass array to function using pointer
-   - Dynamic arrays
-   - Dynamic 2D arrays
+
 - OOP
    - Class
    - Constructor
@@ -39,7 +49,9 @@ C++ Study Roadmap
    - Pure virtual functions
    - Abstract classes
    - Operator overloading
-- Implement chess using 2d array 
+- Templates
+- Implement chess using 2d array
 - Exception handling
 - File I/O
 - Multithreading
+- Implement vector (dynamic array)
